@@ -4,7 +4,8 @@ Use Window's tools against itself! While it doesn't debloat everything, it's a s
 
 Comments are added to the code to tell you specifically what is being deleted. If you would like to keep something just simply comment out the following line of code or delete it.  
 
-This script will need to be ran in administrator mode to delete some items. This can be done by hitting the windows key on your keyboard, typing in "PowerShell", right-clicking the "Windows PowerShell" icon, and clicking "Run as administrator".  
+This script will need to be ran in administrator mode to delete some items. This can be done by hitting the windows key on your keyboard, typing in "PowerShell", right-clicking the "Windows PowerShell" icon, and clicking "Run as administrator". 
+![Run As Admin](images/runAsAdmin.png)
 
 If you reserve an error containing "cannot be loaded because running scripts is disabled", you will need to change the execution policy. You can do this by typing 
 ```
