@@ -16,7 +16,7 @@ Get-AppxPackage *windowscommunicationsapps* | Remove-AppxPackage
 
 #Uninstall Camera:
 
-#Get-AppxPackage *windowscamera* | Remove-AppxPackage
+Get-AppxPackage *windowscamera* | Remove-AppxPackage
 
 #Uninstall Get Office:
 
@@ -64,7 +64,7 @@ Get-AppxPackage *people* | Remove-AppxPackage
 
 #Uninstall Phone Companion:
 
-#Get-AppxPackage *windowsphone* | Remove-AppxPackage
+Get-AppxPackage *windowsphone* | Remove-AppxPackage
 
 #Uninstall Photos:
 
